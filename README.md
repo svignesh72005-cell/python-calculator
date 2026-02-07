@@ -123,8 +123,9 @@ for loop
 while loop
 Input and output
 
-##Terminal output screenshots:
+## Terminal output screenshots:
 
+![Screenshot 5](Screenshot%202026-02-07%20185059.png)
 ![Screenshot 4](Screenshot%202026-02-04%20195224.png)
 ![Screenshot 1](Screenshot%202026-02-04%20190844.png)
 ![Screenshot 2](Screenshot%202026-02-04%20192904.png)
