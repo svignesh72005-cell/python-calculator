@@ -6,12 +6,12 @@
 
 This project focuses on learning Python basics through hands-on practice, with emphasis on logic building and problem-solving. The project includes multiple mini programs covering core Python concepts such as variables, loops, functions, conditional statements, random module usage, and basic file handling.
 
-**Bold Text** ### Project Highlights🔥🔥
+## **Project Highlights**🔥🔥
 
-  ---> Multi-Operation Calculator Program.
-  ---> Logic-Based Guessing Game.
-  ---> Simple File Read & Write Operations.
-  --->Practice on Variables, Loops & Functions.
+   ---> Multi-Operation Calculator Program.
+   ---> Logic-Based Guessing Game.
+   ---> Simple File Read & Write Operations.
+   --->Practice on Variables, Loops & Functions.
 
 ### Deliverables Submitted:
 
