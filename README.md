@@ -8,7 +8,7 @@ This project focuses on learning Python basics through hands-on practice, with e
 
 ## **Project Highlights**🔥🔥
 
-Multi-Operation Calculator Program 
+--> Multi-Operation Calculator Program 
 
 Logic-Based Guessing Game.
 
