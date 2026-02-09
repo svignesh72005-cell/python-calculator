@@ -41,8 +41,11 @@ Logic Explanation
 Separate functions are created for each operation:
 
 add() for addition ➕
+
 subtract() for subtraction ➖
+
 multiply() for multiplication ✖
+
 divide() for division ➗
 
 The user selects an operation using a menu.
@@ -50,7 +53,7 @@ Two numbers are taken as input.
 Based on the user’s choice, the corresponding function is called.
 Division by zero is handled to avoid runtime errors.
 
-###Concepts Used:
+### Concepts Used:
 Functions
 Conditional statements (if / elif / else)
 User input and output
