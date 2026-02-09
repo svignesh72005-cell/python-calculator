@@ -148,8 +148,11 @@ Input and output
 
 ## Learning Outcome:
 
-After completing this project:
+**After completing this project**:
 Strong understanding of Python fundamentals
+
 Improved logical thinking and problem-solving skills
+
 Hands-on experience with real Python programs
+
 Readiness for advanced Python concepts and projects
