@@ -10,11 +10,11 @@ This project focuses on learning Python basics through hands-on practice, with e
 
 --> Multi-Operation Calculator Program 
 
-Logic-Based Guessing Game.
+--> Logic-Based Guessing Game.
 
-Simple File Read & Write Operations.
+--> Simple File Read & Write Operations.
 
-Practice on Variables, Loops & Functions.
+--> Practice on Variables, Loops & Functions.
 
 ### Deliverables Submitted:
 
@@ -28,7 +28,7 @@ Practice on Variables, Loops & Functions.
   Project ID: Project_01
   Access id: VI128CA
 
-Multi-Operation Calculator
+## Multi-Operation Calculator➕➖✖➗
 File Name: calculator.py
 Purpose
 To perform basic mathematical operations on two numbers entered by the user.
