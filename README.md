@@ -9,8 +9,11 @@ This project focuses on learning Python basics through hands-on practice, with e
 ## **Project Highlights**🔥🔥
 
 Multi-Operation Calculator Program 
+
 Logic-Based Guessing Game.
+
 Simple File Read & Write Operations.
+
 Practice on Variables, Loops & Functions.
 
 ### Deliverables Submitted:
