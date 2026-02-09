@@ -89,52 +89,53 @@ Conditional statements
 random module
 Counters
 
-Simple File Read and Write Operations:
-File Name: file_operations.py
+## Simple File Read and Write Operations:🖋🖋📋📋
 
-Purpose:
+**File Name**: **file_operations.py**
+
+**Purpose**:
 To demonstrate basic file handling operations in Python.
 
-Description:
+**Description**:
 This program writes user input to a text file and then reads and displays the content from the same file.
 
-Logic Explanation:
+### Logic Explanation:
 The user enters text input.
 The program opens a file in write mode and saves the input.
 The file is then opened in read mode.
 The stored content is read and printed to the terminal.
 The with statement is used to safely handle file operations.
 
-Concepts Used:
+### Concepts Used:
 File handling
 open(), read(), write()
 Text files
 
-Variables, Loops & Functions Practice
+## Variables, Loops & Functions Practice ⛓⛓⛓
 
-File Name: basics_practice.py
+**File Name**: basics_practice.py
 
-Purpose:
+**Purpose**:
 To practice and understand Python’s basic building blocks.
 
-Description:
+**Description**:
 This program demonstrates the use of variables, functions, loops, and user input.
 
-Logic Explanation:
+**Logic Explanation**:
 A function is defined to display a greeting message.
 The user enters their name, which is passed to the function.
 A for loop prints numbers from 1 to 5.
 A while loop performs a countdown.
 This program combines multiple basic concepts in a simple flow.
 
-Concepts Used:
+**Concepts Used**:
 Variables
 Functions
 for loop
 while loop
 Input and output
 
-## Terminal output screenshots:
+## visual studio code screenshots:
 
 ![Screenshot 5](Screenshot%202026-02-07%20185059.png)
 ![Screenshot 4](Screenshot%202026-02-04%20195224.png)
