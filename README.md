@@ -136,19 +136,27 @@ while loop
 Input and output
 
 ## visual studio code screenshots:
-
+**input**
 ![Screenshot 5](Screenshot%202026-02-07%20185059.png)
+**output**
 ![Screenshot 4](Screenshot%202026-02-04%20195224.png)
+**input**
 ![Screenshot 7](Screenshot%202026-02-07%20185131.png)
+**ouput**
 ![Screenshot 2](Screenshot%202026-02-04%20192904.png)
+**Input**
 ![Screenshot 3](Screenshot%202026-02-04%20194954.png)
+**output**
 ![Screenshot 6](Screenshot%202026-02-07%20185111.png)
+**input**
 ![Screenshot 8](Screenshot%202026-02-07%20185141.png)
+**output**
 ![Screenshot 1](Screenshot%202026-02-04%20190844.png)
 
 ## Learning Outcome:
 
 **After completing this project**:
+
 Strong understanding of Python fundamentals
 
 Improved logical thinking and problem-solving skills
