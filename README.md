@@ -22,10 +22,12 @@ This project focuses on learning Python basics through hands-on practice, with e
                       Project folder structure as instructed
 
 
-📘 Project: Python Fundamentals & Mini Exercises
+📘  ### Project: Python Fundamentals & Mini Exercises
 
   Module: Fundamentals
+  
   Project ID: Project_01
+  
   Access id: VI128CA
 
 ## Multi-Operation Calculator➕➖✖➗
