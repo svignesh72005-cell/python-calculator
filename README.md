@@ -24,19 +24,20 @@ This project focuses on learning Python basics through hands-on practice, with e
 
  ### Project: Python Fundamentals & Mini Exercises 📘📘
 
-  Module: Fundamentals
+  **Module**: Fundamentals
   
-  Project ID: Project_01
+  **Project ID**: Project_01
   
-  Access id: VI128CA
+  **Access id**: VI128CA
 
 ## Multi-Operation Calculator➕➖✖➗
 
-File Name: calculator.py
-Purpose
+**File Name**: **calculator.py**
+
+### Purpose:
 To perform basic mathematical operations on two numbers entered by the user.
 
-Description:
+### Description:
 
 This program allows the user to select a mathematical operation (Addition, Subtraction, Multiplication, or Division) and apply it to two input numbers.
 Logic Explanation
@@ -61,17 +62,17 @@ Functions
 Conditional statements (if / elif / else)
 User input and output
 
-Logic-Based Guessing Game
+## Logic-Based Guessing Game 🎮🎮
 
-File Name: guessing_game.py
+**File Name**: guessing_game.py
 
-Purpose:
+### Purpose:
 To improve logical thinking using loops and conditional statements.
 
-Description:
+### Description:
 The computer randomly generates a number, and the user must guess it correctly.
 
-Logic Explanation:
+### Logic Explanation:
 A random number is generated using the random module.
 The program runs inside a while loop until the correct number is guessed.
 The user enters a guess on each attempt.
@@ -82,7 +83,7 @@ If the guess is higher → “Too high”
 If correct → Success message with number of attempts
 The loop ends once the correct number is guessed.
 
-Concepts Used:
+### Concepts Used:
 Loops (while)
 Conditional statements
 random module
