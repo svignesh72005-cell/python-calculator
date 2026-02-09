@@ -22,7 +22,7 @@ This project focuses on learning Python basics through hands-on practice, with e
                       Project folder structure as instructed
 
 
-📘  ### Project: Python Fundamentals & Mini Exercises
+ ### Project: Python Fundamentals & Mini Exercises 📘📘
 
   Module: Fundamentals
   
@@ -31,6 +31,7 @@ This project focuses on learning Python basics through hands-on practice, with e
   Access id: VI128CA
 
 ## Multi-Operation Calculator➕➖✖➗
+
 File Name: calculator.py
 Purpose
 To perform basic mathematical operations on two numbers entered by the user.
